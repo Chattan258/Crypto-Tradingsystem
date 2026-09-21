@@ -1,0 +1,2 @@
+# 保持原始报告字节不变，使归档校验值跨平台一致。
+reports/factor-*.txt -text

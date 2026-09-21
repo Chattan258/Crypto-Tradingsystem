@@ -1,0 +1,86 @@
+[
+  {
+    "公开文件": "reports/factor-1005-1h.txt",
+    "来源": "factor_1005/1H/factor_1005_ga_top6_performance.txt",
+    "来源校验值": "d34df90e3e65f56fddcb443646ec931621922f1d385b3c0ffa60de7566ce31e0",
+    "公开文件校验值": "7189cdee108d53672edfbcdf4fcad337a57a76746ba9ae403288c2ddbdda13a7",
+    "处理说明": "元信息标题中文化，数值保留"
+  },
+  {
+    "公开文件": "assets/factor-1005-1h.png",
+    "来源": "factor_1005/1H/factor_1005_ga_top6_comparison.png",
+    "来源校验值": "6b171c8673d4732341130dc2b68867af4e3f12463b91e000d1df8114774cd992",
+    "公开文件校验值": "6b171c8673d4732341130dc2b68867af4e3f12463b91e000d1df8114774cd992",
+    "处理说明": "原始图片，未修改"
+  },
+  {
+    "公开文件": "reports/factor-1043-1h.txt",
+    "来源": "factor_1043/1H/factor_1043_ga_top6_performance.txt",
+    "来源校验值": "5a1e9eab35652271cdc7870218c51e3caa04b2e317dd484cb40c5e649231953b",
+    "公开文件校验值": "f446814a397d0c0fda7fce089d4734940f16a236038bb87c9b2a51d698d57336",
+    "处理说明": "元信息标题中文化，数值保留"
+  },
+  {
+    "公开文件": "assets/factor-1043-1h.png",
+    "来源": "factor_1043/1H/factor_1043_ga_top6_comparison.png",
+    "来源校验值": "f91ca666af08d78eac65e8612b8677753bdf5b960a578a29dd7367f256cfe5c8",
+    "公开文件校验值": "f91ca666af08d78eac65e8612b8677753bdf5b960a578a29dd7367f256cfe5c8",
+    "处理说明": "原始图片，未修改"
+  },
+  {
+    "公开文件": "reports/factor-1048-1h.txt",
+    "来源": "factor_1048/1H/factor_1048_ga_top6_performance.txt",
+    "来源校验值": "b0449e9256c6915a283120824509028d49161fe0836b1d56627bcdc9fd5a375e",
+    "公开文件校验值": "e03cd61984ae98bf8172ed62da18fccaad31221df107086d5f28547acfc5cbfe",
+    "处理说明": "元信息标题中文化，数值保留"
+  },
+  {
+    "公开文件": "assets/factor-1048-1h.png",
+    "来源": "factor_1048/1H/factor_1048_ga_top6_comparison.png",
+    "来源校验值": "66a357a9f0543ae9a6188d1ae21608be6489aabbf45f51edefdfd2b227731c65",
+    "公开文件校验值": "66a357a9f0543ae9a6188d1ae21608be6489aabbf45f51edefdfd2b227731c65",
+    "处理说明": "原始图片，未修改"
+  },
+  {
+    "公开文件": "reports/factor-1048-4h.txt",
+    "来源": "factor_1048/4H/factor_1048_ga_top6_performance.txt",
+    "来源校验值": "efca0077bc42df45d92a2ab889bee2c83465000be70a9a42f98646654cafe5c0",
+    "公开文件校验值": "31c4ed4900eae9043b33195c4e4590df7dee035857c1debb1c303f992dd3d474",
+    "处理说明": "元信息标题中文化，数值保留"
+  },
+  {
+    "公开文件": "assets/factor-1048-4h.png",
+    "来源": "factor_1048/4H/factor_1048_ga_top6_comparison.png",
+    "来源校验值": "7a5f127541b97d9def733ab3425069826ddfa69ee7504c457aa9059be197b581",
+    "公开文件校验值": "7a5f127541b97d9def733ab3425069826ddfa69ee7504c457aa9059be197b581",
+    "处理说明": "原始图片，未修改"
+  },
+  {
+    "公开文件": "reports/factor-1018-2h.txt",
+    "来源": "factor_1018/2H/factor_1018_ga_top6_performance.txt",
+    "来源校验值": "82bffd75bfa7417c3bf162f875df269f135e7de417f19786e41e9bbba84e75b1",
+    "公开文件校验值": "5fa5f8bc97e3345e2f1cdb806356d5314a11c694650b9daa2fb3ef1e4b3d7bcc",
+    "处理说明": "元信息标题中文化，数值保留"
+  },
+  {
+    "公开文件": "assets/factor-1018-2h.png",
+    "来源": "factor_1018/2H/factor_1018_ga_top6_comparison.png",
+    "来源校验值": "8aa35f6c852d187c07f05c7e4c665c6db4aab8e8f568587625b7135b23f65fe4",
+    "公开文件校验值": "8aa35f6c852d187c07f05c7e4c665c6db4aab8e8f568587625b7135b23f65fe4",
+    "处理说明": "原始图片，未修改"
+  },
+  {
+    "公开文件": "reports/factor-1001-1h.txt",
+    "来源": "factor_1001/1H/factor_1001_ga_top6_performance.txt",
+    "来源校验值": "f68ccb647b57fb36f3c2f3d8b14f0c5b7bd8be8e7394911b1d79dab77005a9f7",
+    "公开文件校验值": "a1e0c482b3408ab7051498b1f1cbdd75cfa2f4c36dbada5f0e51a7de012110dc",
+    "处理说明": "元信息标题中文化，数值保留"
+  },
+  {
+    "公开文件": "assets/factor-1001-1h.png",
+    "来源": "factor_1001/1H/factor_1001_ga_top6_comparison.png",
+    "来源校验值": "230b8ca59c2b46f401513e9764e3da88ba78657b654038c72d150da957851671",
+    "公开文件校验值": "230b8ca59c2b46f401513e9764e3da88ba78657b654038c72d150da957851671",
+    "处理说明": "原始图片，未修改"
+  }
+]

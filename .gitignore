@@ -1,0 +1,24 @@
+# 公开仓库仅收录手动挑选的展示材料。
+*
+!.gitignore
+!.gitattributes
+!README.md
+!README.zh-CN.md
+!docs/
+!docs/*.md
+!assets/
+!assets/*.png
+!reports/
+!reports/*.txt
+!reports/*.csv
+!reports/source-manifest.json
+
+# 凭证、策略源码、行情、交易明细均不进入展示仓库。
+.env*
+*.pem
+*.key
+*.py
+__pycache__/
+data/
+work/
+logs/
